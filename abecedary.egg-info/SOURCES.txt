@@ -1,0 +1,7 @@
+setup.py
+abecedary/__init__.py
+abecedary/charachter.py
+abecedary.egg-info/PKG-INFO
+abecedary.egg-info/SOURCES.txt
+abecedary.egg-info/dependency_links.txt
+abecedary.egg-info/top_level.txt
